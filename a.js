@@ -3,4 +3,11 @@ function add(a, b) {
 }
 
 a = add(1, 2)
-print(a)
+console.log(a)
+
+function minus(a, b) {
+    return a - b
+}
+
+c = minus(3, 1)
+console.log(c)
