@@ -11,4 +11,3 @@ function minus(a, b) {
 
 c = minus(3, 1)
 console.log(c)
-console.log("ssdf")
