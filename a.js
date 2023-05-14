@@ -11,3 +11,8 @@ function minus(a, b) {
 
 c = minus(3, 1)
 console.log(c)
+
+
+function div(a, b) {
+    return a / b
+}
